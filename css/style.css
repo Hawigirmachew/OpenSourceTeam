@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Lato&display=swap');
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+:root{
+    --black-color:#333;
+    --nav-text:#fff;
+    --font-family:'Lato',sans-serif;
+}
